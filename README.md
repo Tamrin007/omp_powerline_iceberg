@@ -1,6 +1,6 @@
 # omp_powerline_iceberg
 
-The oh-my-posh theme inspired by [cocopon/iceberg.vim](https://github.com/cocopon/iceberg.vim).
+A oh-my-posh theme inspired by [cocopon/iceberg.vim](https://github.com/cocopon/iceberg.vim).
 
 ![prompt image](omp_powerline_iceberg.png)
 
