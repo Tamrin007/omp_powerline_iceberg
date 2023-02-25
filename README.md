@@ -10,5 +10,5 @@ Clone this repo and write the config on your profile.
 
 ```
 git clone https://github.com/Tamrin007/omp_powerline_iceberg.git
-echo 'oh-my-posh init pwsh --config "<path to repo>\omp_powerline_iceberg\omp_powerline_iceberg.json" | Invoke-Expression' >> $PROFILE
+echo 'oh-my-posh init pwsh --config "<path to repo>\omp_powerline_iceberg.json" | Invoke-Expression' >> $PROFILE
 ```
