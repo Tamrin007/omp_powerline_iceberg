@@ -72,7 +72,7 @@
                     "trailing_diamond": "\ue0b0",
                     "background": "p:blue",
                     "foreground": "p:black",
-                    "template": " {{ .UpstreamIcon }}{{ .HEAD }}{{ if gt .StashCount 0 }} \uf692 {{ .StashCount }}{{ end }} ",
+                    "template": " {{ .UpstreamIcon }}{{ .HEAD }}{{ if gt .StashCount 0 }} \udb80\udd93 {{ .StashCount }}{{ end }} ",
                     "properties": {
                         "fetch_stash_count": true,
                         "fetch_upstream_icon": true
